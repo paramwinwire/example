@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\chatHPE\\chatHPE-GHA\\dev\\HPE\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj": {}
+    "D:\\chatHPE\\chatHPE-GHA\\example repo\\example\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj": {}
   },
   "projects": {
-    "D:\\chatHPE\\chatHPE-GHA\\dev\\HPE\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj": {
+    "D:\\chatHPE\\chatHPE-GHA\\example repo\\example\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\chatHPE\\chatHPE-GHA\\dev\\HPE\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
+        "projectUniqueName": "D:\\chatHPE\\chatHPE-GHA\\example repo\\example\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
         "projectName": "aspnet-core-dotnet-core",
-        "projectPath": "D:\\chatHPE\\chatHPE-GHA\\dev\\HPE\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
+        "projectPath": "D:\\chatHPE\\chatHPE-GHA\\example repo\\example\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
         "packagesPath": "C:\\Users\\ParameshRajappan\\.nuget\\packages\\",
-        "outputPath": "D:\\chatHPE\\chatHPE-GHA\\dev\\HPE\\aspnet-core-dotnet-core\\obj\\",
+        "outputPath": "D:\\chatHPE\\chatHPE-GHA\\example repo\\example\\aspnet-core-dotnet-core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ParameshRajappan\\AppData\\Roaming\\NuGet\\NuGet.Config"

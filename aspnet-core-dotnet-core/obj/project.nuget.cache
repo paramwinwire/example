@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pVd6Vm81dwpTkL6vMB/COV5s0/t8wBrbFSlWToRmXcJFVK8joybnHdvZwqp1WN58qR3ZnO1QErOzdXLeVQy4Sg==",
+  "dgSpecHash": "gr0FqyLHBy6AJLAX+yAzSdNANb21tbcmMqLYGXWlJE4gxU4givMlaAGzba808BaN5PHpAcfUBdYbynNYBhRDAQ==",
   "success": true,
-  "projectFilePath": "D:\\chatHPE\\chatHPE-GHA\\dev\\HPE\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
+  "projectFilePath": "D:\\chatHPE\\chatHPE-GHA\\example repo\\example\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ParameshRajappan\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",
     "C:\\Users\\ParameshRajappan\\.nuget\\packages\\microsoft.applicationinsights\\2.14.0\\microsoft.applicationinsights.2.14.0.nupkg.sha512",
