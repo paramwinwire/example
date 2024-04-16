@@ -7,7 +7,7 @@ jobs:
   docker_build_push_acr:
     name: 'Docker Build and Push to ACR'
     runs-on: ubuntu-latest
-    environment: dev
+    environment: test
  
    
     defaults:
